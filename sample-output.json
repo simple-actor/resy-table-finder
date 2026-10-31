@@ -1,0 +1,1422 @@
+[
+ {
+  "id": 418,
+  "name": "Lilia",
+  "url": "https://resy.com/cities/new-york-ny/venues/lilia",
+  "canonicalUrl": "https://resy.com/cities/new-york-ny/venues/lilia",
+  "urlSlug": "lilia",
+  "deepLink": "resy://resy.com/VenueDetails?venue_id=418",
+  "neighborhood": "Williamsburg",
+  "locality": "Brooklyn",
+  "region": "NY",
+  "country": "United States",
+  "countryCode": "US",
+  "address": "567 Union Ave",
+  "address2": null,
+  "crossStreet": "Frost St N",
+  "crossStreet2": "10th St",
+  "postalCode": "11211",
+  "latitude": 40.717239,
+  "longitude": -73.952167,
+  "locationName": "Brooklyn",
+  "locationCode": "ny",
+  "locationSlug": "new-york-ny",
+  "timeZone": "EST5EDT",
+  "googlePlaceId": "ChIJJXCD6ltZwokRJ_cwjKQH63c",
+  "foursquareId": "569af0e3498ed45804d58a1c",
+  "fbPixelId": "955980648589693",
+  "phone": "+17185763095",
+  "website": "http://www.lilianewyork.com/",
+  "menuUrl": null,
+  "type": "Italian",
+  "cuisine": [
+   "Italian"
+  ],
+  "priceRange": 3,
+  "currencyCode": "USD",
+  "currencySymbol": "$",
+  "averageSpend": "$80",
+  "averageSpendAmount": 80,
+  "rating": 4.74219,
+  "ratingCount": 48594,
+  "ratingScale": 5,
+  "ratings": [
+   {
+    "source": "Resy",
+    "score": 4.74219,
+    "scale": 5,
+    "count": 48594
+   },
+   {
+    "source": "NY Times",
+    "score": 3,
+    "scale": 4,
+    "count": null
+   }
+  ],
+  "minPartySize": 2,
+  "maxPartySize": 6,
+  "largePartyMessage": "For parties larger than 6 guests please visit the Events tab on our website. For any other inquiries please email reservations@lilianewyork.com.",
+  "images": [
+   "https://image.resy.com/3/003/2/418/354912dad100159dc78d1653b69f7caac10434e8/jpg/640x360"
+  ],
+  "heroImage": "https://image.resy.com/3/003/2/418/354912dad100159dc78d1653b69f7caac10434e8/jpg/640x360",
+  "mapImage": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=222x222&scale=2&markers=color:0xFF2500%7C40.717239,-73.952167&key=AIzaSyBC2hN321Moz9bhWU0CvdPg6rvKSN_SVgM&signature=MztHwUuLareyj70kid7dOEW3qkA=",
+  "about": "Lilia is Chef Missy Robbins' ingredient driven Italian restaurant, inspired by the spirit of seasonal and regional simplicity.  A strong focus on fish, vegetables, hand-made pasta, and wood-fired cooking.   Our seasonal outdoor dining (Piazza and Patio) is weather-dependent and not heated.",
+  "whyWeLikeIt": "Because Missy Robbins' pastas are nothing short of heavenly and the beautiful, bright, and airy Williamsburg space (fun fact: it was previously an auto body shop) is very pleasant to dine in.",
+  "needToKnow": null,
+  "tagline": "The food is Italian, confident and coursing with energy. —NY Times",
+  "fromTheVenue": null,
+  "metaDescription": "Lilia is an Italian restaurant in the Williamsburg neighborhood of Brooklyn.",
+  "keywords": [
+   "book",
+   "dining",
+   "reservations",
+   "restaurant",
+   "brooklyn",
+   "11211",
+   "williamsburg",
+   "italian",
+   "ny times",
+   "3.0 star"
+  ],
+  "announcementHeadline": "Now more than ever, the restaurant industry needs your help.",
+  "announcementBody": "We have never seen anything like this before. The National Restaurant Association estimates that the COVID-19 pandemic will result in $225B in lost revenue and the elimination of 5-7 million jobs in restaurants. Please support the restaurants you love.",
+  "announcementLinks": [
+   {
+    "label": "Gift Cards",
+    "url": "https://www.lilianewyork.com/store/gift-cards/",
+    "category": "other"
+   }
+  ],
+  "collections": [
+   "Resy Staff Picks in New York",
+   "New York's Best Natural Wine Spots",
+   "New York’s Critically Acclaimed Restaurants",
+   "The Women of Food: New York",
+   "If You’re Craving Pasta in New York...",
+   "Save Room for Dessert in New York",
+   "Date Night Gems in New York",
+   "Book Tonight",
+   "Climbing",
+   "Top Rated",
+   "Global Dining Access"
+  ],
+  "awards": [],
+  "venueGroup": "Grovehouse (Lilia / Misi / Misipasta / MP @ GI)",
+  "venueGroupId": 290,
+  "venueGroupVenueIds": [
+   3015,
+   73487
+  ],
+  "socialLinks": [
+   {
+    "name": "instagram",
+    "value": "lilianewyork"
+   }
+  ],
+  "isActive": true,
+  "isGlobalDiningAccess": true,
+  "isGlobalDiningAccessOnly": false,
+  "isResySelect": false,
+  "isResyCreditEligible": true,
+  "isTockInventory": false,
+  "inventoryTypeId": 2,
+  "requiresReservationTransfers": false,
+  "allowMultipleReservations": false,
+  "allowBypassPaymentMethod": true,
+  "enableResyPay": false,
+  "hospitalityIncluded": false,
+  "hasExperiences": false,
+  "taxIncluded": false,
+  "transactionProcessor": "stripe",
+  "waitlistAvailable": false,
+  "reopenDate": "2020-07-10",
+  "scrapedAt": "2026-10-31T03:37:46.415Z",
+  "calendarStart": "2026-10-31",
+  "calendarEnd": "2026-11-30",
+  "calendarLastBookableDate": "2026-11-26",
+  "calendar": [
+   {
+    "date": "2026-10-31",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-01",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-02",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-03",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-04",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-05",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-06",
+    "reservation": "closed",
+    "event": "closed",
+    "walkIn": "closed"
+   },
+   {
+    "date": "2026-11-07",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-08",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-09",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-10",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-11",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-12",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-13",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-14",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-15",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-16",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-17",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-18",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-19",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-20",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-21",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-22",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-23",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-24",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-25",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-26",
+    "reservation": "closed",
+    "event": "closed",
+    "walkIn": "closed"
+   }
+  ],
+  "availableDates": [
+   "2026-11-02",
+   "2026-11-03",
+   "2026-11-04",
+   "2026-11-08",
+   "2026-11-09",
+   "2026-11-10",
+   "2026-11-11",
+   "2026-11-12",
+   "2026-11-16",
+   "2026-11-17",
+   "2026-11-18",
+   "2026-11-19",
+   "2026-11-20",
+   "2026-11-22",
+   "2026-11-23",
+   "2026-11-24",
+   "2026-11-25"
+  ],
+  "availableDateCount": 17
+ },
+ {
+  "id": 6194,
+  "name": "Carbone",
+  "url": "https://resy.com/cities/new-york-ny/venues/carbone",
+  "canonicalUrl": "https://resy.com/cities/new-york-ny/venues/carbone",
+  "urlSlug": "carbone",
+  "deepLink": "resy://resy.com/VenueDetails?venue_id=6194",
+  "neighborhood": "Greenwich Village",
+  "locality": "New York",
+  "region": "NY",
+  "country": "United States",
+  "countryCode": "US",
+  "address": "181 Thompson Street",
+  "address2": null,
+  "crossStreet": "Bleecker Street",
+  "crossStreet2": null,
+  "postalCode": "10012",
+  "latitude": 40.7279891,
+  "longitude": -74.0002311,
+  "locationName": "New York",
+  "locationCode": "ny",
+  "locationSlug": "new-york-ny",
+  "timeZone": "EST5EDT",
+  "googlePlaceId": "ChIJmSvG_ZFZwokRTOFeiLXzkmA",
+  "foursquareId": "504b2a9ee4b006c435a465d3",
+  "fbPixelId": "3496768970414592",
+  "phone": "+12122543000",
+  "website": "http://carbonenewyork.com/",
+  "menuUrl": "https://carbonenewyork.com/?menu=dinner",
+  "type": "Italian",
+  "cuisine": [
+   "Italian"
+  ],
+  "priceRange": 4,
+  "currencyCode": "USD",
+  "currencySymbol": "$",
+  "averageSpend": "$150",
+  "averageSpendAmount": 150,
+  "rating": 4.7525,
+  "ratingCount": 34549,
+  "ratingScale": 5,
+  "ratings": [
+   {
+    "source": "Resy",
+    "score": 4.7525,
+    "scale": 5,
+    "count": 34549
+   }
+  ],
+  "minPartySize": 1,
+  "maxPartySize": 14,
+  "largePartyMessage": "If you would like to make a reservation for a group larger than 8 guests, please reach out to our events team at events@majorfood.com.",
+  "images": [
+   "https://image.resy.com/3/003/2/6194/eb7e0572c600c2a164a0f9018ea443900c178841/jpg/640x360",
+   "https://image.resy.com/3/003/2/6194/e40645c61ab10cdb73e6273a5933bd2ace294bfe/jpg/640x360",
+   "https://image.resy.com/3/003/2/6194/4902512b9b24edf1c86a28915102248c3920c425/jpg/640x360",
+   "https://image.resy.com/3/003/2/6194/56847803212cec5d97ad05c4b42b0bc61a706473/jpg/640x360",
+   "https://image.resy.com/3/003/2/6194/32b2f3736737aeb45e5c5502e386c51dcb394668/jpg/640x360"
+  ],
+  "heroImage": "https://image.resy.com/3/003/2/6194/eb7e0572c600c2a164a0f9018ea443900c178841/jpg/640x360",
+  "mapImage": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=222x222&scale=2&markers=color:0xFF2500%7C40.7279891,-74.0002311&key=AIzaSyBC2hN321Moz9bhWU0CvdPg6rvKSN_SVgM&signature=LtKgMKfLLMpcq-0JpVFR2C6Tf0Y=",
+  "about": "Carbone is Chef Mario Carbone’s homage to the great Italian American restaurants of mid-20th century in New York, where delicious, exceptionally well-prepared food was served in settings that were simultaneously elegant, comfortable and unpretentious. His food captures the essence of that history but takes its culinary cues from the kitchens of his childhood, the great talents with whom he worked throughout his early career and incorporates his signature techniques that blend familiar and bold flavors to create the most craveable dishes. We call this Carbone Italian.",
+  "whyWeLikeIt": "Carbone puts on the ritz of times gone by, where Dean Martin croons over the speakers, waiters sport tuxedos, and Italian-American cuisine is elevated to its most elegant form. It’s retro-glam at its finest, and a treat in every sense.",
+  "needToKnow": "Reservations for both lunch and dinner can be made through Resy or via email up to 30 days in advance, starting at 10:00 AM EST.\n\nTo secure a reservation, a deposit of $25 per person is required for lunch, and $50 per person is required for dinner, plus tax. This deposit will be applied to your final bill. Please be aware that reservations and deposits are non-transferable. Deposits will be refunded if cancellations are made by 12:00 PM on the day of the dinner reservation or at least 12 hours prior to lunch reservations. If cancellations are not made within these time frames, a portion of these fees will be donated to the Robin Hood Foundation.\n\nFor reservations, modifications, or cancellations of existing bookings, inquiries about dietary restrictions or allergies, or to arrange prepayments, please contact us at reservations@carbonenewyork.com.\n\nGuests are encouraged to dress for the occasion. Any guest who does not appear sufficiently well-presented may be refused entry. No shorts, open-toed shoes, or tank tops. Athletic wear and baseball caps are kindly prohibited.\n\nPlease note that we do not provide high chairs and cannot accommodate strollers in the dining area due to space constraints.",
+  "tagline": null,
+  "fromTheVenue": null,
+  "metaDescription": "Carbone is an Italian restaurant in the Greenwich Village neighborhood of New York.",
+  "keywords": [
+   "book",
+   "dining",
+   "reservations",
+   "restaurant",
+   "new york",
+   "10012",
+   "greenwich village",
+   "italian"
+  ],
+  "announcementHeadline": "Now more than ever, the restaurant industry needs your help.",
+  "announcementBody": "We have never seen anything like this before. The National Restaurant Association estimates that the COVID-19 pandemic will result in $225B in lost revenue and the elimination of 5-7 million jobs in restaurants. Please support the restaurants you love.",
+  "announcementLinks": [
+   {
+    "label": "Caviar",
+    "url": "https://www.trycaviar.com/m/carbone-19323",
+    "category": "online_ordering"
+   },
+   {
+    "label": "Gift Cards",
+    "url": "https://ecommerce.custcon.com//Selection.aspx?c=cf2f5e30-49b8-4112-9f97-7c9eaad6ca2a",
+    "category": "other"
+   }
+  ],
+  "collections": [
+   "If You’re Craving Pasta in New York...",
+   "Book Tonight",
+   "Climbing",
+   "Top Rated",
+   "Global Dining Access",
+   "Events"
+  ],
+  "awards": [],
+  "venueGroup": "Major Food Group",
+  "venueGroupId": 4707,
+  "venueGroupVenueIds": [
+   6249,
+   7457,
+   8656,
+   10389,
+   29967,
+   35679,
+   35694,
+   43225,
+   50667,
+   52021,
+   56582,
+   56583,
+   56586,
+   59954,
+   64593,
+   65073,
+   76356,
+   77620,
+   86433,
+   97656
+  ],
+  "socialLinks": [
+   {
+    "name": "facebook",
+    "value": "https://www.facebook.com/pages/Carbone/420465384699862"
+   },
+   {
+    "name": "instagram",
+    "value": "majorfoodgroup"
+   }
+  ],
+  "isActive": true,
+  "isGlobalDiningAccess": true,
+  "isGlobalDiningAccessOnly": false,
+  "isResySelect": false,
+  "isResyCreditEligible": true,
+  "isTockInventory": false,
+  "inventoryTypeId": 2,
+  "requiresReservationTransfers": false,
+  "allowMultipleReservations": false,
+  "allowBypassPaymentMethod": true,
+  "enableResyPay": false,
+  "hospitalityIncluded": false,
+  "hasExperiences": false,
+  "taxIncluded": false,
+  "transactionProcessor": "stripe",
+  "waitlistAvailable": false,
+  "reopenDate": "2020-06-26",
+  "scrapedAt": "2026-10-31T03:37:41.393Z",
+  "calendarStart": "2026-10-31",
+  "calendarEnd": "2026-11-30",
+  "calendarLastBookableDate": "2026-12-31",
+  "calendar": [
+   {
+    "date": "2026-10-31",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-01",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-02",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-03",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-04",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-05",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-06",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-07",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-08",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-09",
+    "reservation": "closed",
+    "event": "closed",
+    "walkIn": "closed"
+   },
+   {
+    "date": "2026-11-10",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-11",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-12",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-13",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-14",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-15",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-16",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-17",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-18",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-19",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-20",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-21",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-22",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-23",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-24",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-25",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-26",
+    "reservation": "sold-out",
+    "event": "sold-out",
+    "walkIn": "not available"
+   },
+   {
+    "date": "2026-11-27",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-28",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-29",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   }
+  ],
+  "availableDates": [],
+  "availableDateCount": 0
+ },
+ {
+  "id": 443,
+  "name": "I Sodi",
+  "url": "https://resy.com/cities/new-york-ny/venues/i-sodi",
+  "canonicalUrl": "https://resy.com/cities/new-york-ny/venues/i-sodi",
+  "urlSlug": "i-sodi",
+  "deepLink": "resy://resy.com/VenueDetails?venue_id=443",
+  "neighborhood": "West Village",
+  "locality": "New York",
+  "region": "NY",
+  "country": "United States",
+  "countryCode": "US",
+  "address": "314 Bleecker St.",
+  "address2": null,
+  "crossStreet": "Grove St.",
+  "crossStreet2": "Seventh Ave.",
+  "postalCode": "10014",
+  "latitude": 40.733434,
+  "longitude": -74.004996,
+  "locationName": "New York",
+  "locationCode": "ny",
+  "locationSlug": "new-york-ny",
+  "timeZone": "EST5EDT",
+  "googlePlaceId": "ChIJK2mBYJNZwokRIT4oANQ6OFY",
+  "foursquareId": "49bd2326f964a5204d541fe3",
+  "fbPixelId": null,
+  "phone": "+16466758672",
+  "website": "http://www.isodinyc.com/",
+  "menuUrl": null,
+  "type": "Italian",
+  "cuisine": [
+   "Italian"
+  ],
+  "priceRange": 3,
+  "currencyCode": "USD",
+  "currencySymbol": "$",
+  "averageSpend": "$71",
+  "averageSpendAmount": 71,
+  "rating": 4.80588,
+  "ratingCount": 26040,
+  "ratingScale": 5,
+  "ratings": [
+   {
+    "source": "Resy",
+    "score": 4.80588,
+    "scale": 5,
+    "count": 26040
+   }
+  ],
+  "minPartySize": 1,
+  "maxPartySize": 7,
+  "largePartyMessage": null,
+  "images": [
+   "https://image.resy.com/3/003/2/443/d8f94410675af066465184d8d9efcb9237e2f32a/jpg/640x360",
+   "https://image.resy.com/3/003/2/443/9a604ca1c2e091764c3cc745da0f2ffbd45e8590/jpg/640x360",
+   "https://image.resy.com/3/003/2/443/69496bc71f26ba5608c1324308b0c6155e0b03ca/jpg/640x360"
+  ],
+  "heroImage": "https://image.resy.com/3/003/2/443/d8f94410675af066465184d8d9efcb9237e2f32a/jpg/640x360",
+  "mapImage": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=222x222&scale=2&markers=color:0xFF2500%7C40.733434,-74.004996&key=AIzaSyBC2hN321Moz9bhWU0CvdPg6rvKSN_SVgM&signature=ZTRnuEdERvBRKq8dGGhPalszLok=",
+  "about": "This oasis of a restaurant is chef Rita Sodi's ode to her native Tuscany. The menu of antipasti, masterful house-made pastas, and secondi does not stray from traditional cuisine. The tiny, Bleecker street locale is transportive — between the food, the white tablecloths, the close-knit energy, and the bar's many variations on the classic Negroni, you could just as easily be in Italy. As Pete Wells put it: \"I Sodi seems not to have fully assimilated into the United States. It exists in its own extraterritorial jurisdiction, like the headquarters of the United Nations.\"",
+  "whyWeLikeIt": "I Sodi is a gleaming example of a perfect neighborhood restaurant and the Tuscan fare, from acclaimed chef Rita Sodi (Via Carota, Commerce Inn) is no joke.",
+  "needToKnow": "Confirmations will be honored only for the number of guests in the original reservation.",
+  "tagline": "To eat there is to abide by the laws of eating that Rita Sodi, the chef and owner, brought with her from the farm north of Florence where she was raised. —The New York Times",
+  "fromTheVenue": null,
+  "metaDescription": "I Sodi is an Italian restaurant in the West Village neighborhood of New York.",
+  "keywords": [
+   "book",
+   "dining",
+   "reservations",
+   "restaurant",
+   "new york",
+   "10014",
+   "west village",
+   "italian",
+   "resy",
+   "5.0 star"
+  ],
+  "announcementHeadline": "Now more than ever, the restaurant industry needs your help.",
+  "announcementBody": "We have never seen anything like this before. The National Restaurant Association estimates that the COVID-19 pandemic will result in $225B in lost revenue and the elimination of 5-7 million jobs in restaurants. Please support the restaurants you love.",
+  "announcementLinks": [
+   {
+    "label": "Gift Cards",
+    "url": "http://www.isodinyc.com/gift-cards",
+    "category": "other"
+   }
+  ],
+  "collections": [
+   "Resy Staff Picks in New York",
+   "New York’s Critically Acclaimed Restaurants",
+   "The Women of Food: New York",
+   "New York’s Essential Cozy Locales",
+   "If You’re Craving Pasta in New York...",
+   "Save Room for Dessert in New York",
+   "Book Tonight",
+   "Climbing",
+   "Top Rated",
+   "Global Dining Access"
+  ],
+  "awards": [],
+  "venueGroup": "I Sodi",
+  "venueGroupId": 304,
+  "venueGroupVenueIds": [
+   2567,
+   4241,
+   53342
+  ],
+  "socialLinks": [
+   {
+    "name": "facebook",
+    "value": "isodinyc"
+   },
+   {
+    "name": "instagram",
+    "value": "ritasodi"
+   }
+  ],
+  "isActive": true,
+  "isGlobalDiningAccess": true,
+  "isGlobalDiningAccessOnly": false,
+  "isResySelect": false,
+  "isResyCreditEligible": true,
+  "isTockInventory": false,
+  "inventoryTypeId": 2,
+  "requiresReservationTransfers": false,
+  "allowMultipleReservations": false,
+  "allowBypassPaymentMethod": true,
+  "enableResyPay": false,
+  "hospitalityIncluded": false,
+  "hasExperiences": false,
+  "taxIncluded": false,
+  "transactionProcessor": "stripe",
+  "waitlistAvailable": false,
+  "reopenDate": "2020-08-05",
+  "scrapedAt": "2026-10-31T03:37:49.586Z",
+  "calendarStart": "2026-10-31",
+  "calendarEnd": "2026-11-30",
+  "calendarLastBookableDate": "2026-11-12",
+  "calendar": [
+   {
+    "date": "2026-10-31",
+    "reservation": "available",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-01",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-02",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "not available"
+   },
+   {
+    "date": "2026-11-03",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "not available"
+   },
+   {
+    "date": "2026-11-04",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "not available"
+   },
+   {
+    "date": "2026-11-05",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "not available"
+   },
+   {
+    "date": "2026-11-06",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-07",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-08",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "available"
+   },
+   {
+    "date": "2026-11-09",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "not available"
+   },
+   {
+    "date": "2026-11-10",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "not available"
+   },
+   {
+    "date": "2026-11-11",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "not available"
+   },
+   {
+    "date": "2026-11-12",
+    "reservation": "sold-out",
+    "event": "not available",
+    "walkIn": "not available"
+   }
+  ],
+  "availableDates": [
+   "2026-10-31"
+  ],
+  "availableDateCount": 1
+ },
+ {
+  "id": 3015,
+  "name": "Misi",
+  "url": "https://resy.com/cities/new-york-ny/venues/misi",
+  "canonicalUrl": "https://resy.com/cities/new-york-ny/venues/misi",
+  "urlSlug": "misi",
+  "deepLink": "resy://resy.com/VenueDetails?venue_id=3015",
+  "neighborhood": "Williamsburg",
+  "locality": "Brooklyn",
+  "region": "NY",
+  "country": "United States",
+  "countryCode": "US",
+  "address": "329 Kent Ave",
+  "address2": null,
+  "crossStreet": "S 4th St",
+  "crossStreet2": "S 3rd St",
+  "postalCode": "11249",
+  "latitude": 40.713514,
+  "longitude": -73.966933,
+  "locationName": "Brooklyn",
+  "locationCode": "ny",
+  "locationSlug": "new-york-ny",
+  "timeZone": "EST5EDT",
+  "googlePlaceId": "ChIJw7SsU_pZwokREyGSSulF53U",
+  "foursquareId": "5a0ed7006eda02780aab6a3f",
+  "fbPixelId": null,
+  "phone": "+13475663262",
+  "website": "https://www.misinewyork.com/",
+  "menuUrl": null,
+  "type": "Italian",
+  "cuisine": [
+   "Italian"
+  ],
+  "priceRange": 3,
+  "currencyCode": "USD",
+  "currencySymbol": "$",
+  "averageSpend": "$80",
+  "averageSpendAmount": 80,
+  "rating": 4.71715,
+  "ratingCount": 32473,
+  "ratingScale": 5,
+  "ratings": [
+   {
+    "source": "Resy",
+    "score": 4.71715,
+    "scale": 5,
+    "count": 32473
+   }
+  ],
+  "minPartySize": 1,
+  "maxPartySize": 6,
+  "largePartyMessage": null,
+  "images": [
+   "https://image.resy.com/3/003/2/3015/5abaeb1f4b80c06f94aa9599ed24cc7694d18b1c/jpg/640x360"
+  ],
+  "heroImage": "https://image.resy.com/3/003/2/3015/5abaeb1f4b80c06f94aa9599ed24cc7694d18b1c/jpg/640x360",
+  "mapImage": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=222x222&scale=2&markers=color:0xFF2500%7C40.713514,-73.966933&key=AIzaSyBC2hN321Moz9bhWU0CvdPg6rvKSN_SVgM&signature=BeE0x4iIwmm-v0a25TPbwDnV86I=",
+  "about": "Housed in the historic Domino Sugar Refinery, chef Missy Robbins’ Misi is a pasta-focused joint that keeps things simple. With just ten house-made pastas and ten antipasti plates, the James Beard-winning chef puts simple Italian cooking in the spotlight, highlighting seasonal ingredients. Take a seat at the bar, the kitchen counter, or the main dining room, and gorge yourself on some sheep’s milk ricotta-filled occhi.",
+  "whyWeLikeIt": "Misi serves up some deceptively simple pastas, which are made fresh every morning. Be sure to peek inside the glass-enclosed pasta-making lab, and save room for dessert (spoiler alert: it’s gelato).",
+  "needToKnow": null,
+  "tagline": "Misi, located in South Williamsburg, Brooklyn, celebrates handmade pasta dishes and vegetable antipasti inspired by simple Italian cooking",
+  "fromTheVenue": null,
+  "metaDescription": "Misi is an Italian restaurant in the Williamsburg neighborhood of Brooklyn.",
+  "keywords": [
+   "book",
+   "dining",
+   "reservations",
+   "restaurant",
+   "brooklyn",
+   "11249",
+   "williamsburg",
+   "italian",
+   "resy",
+   "5.0 star"
+  ],
+  "announcementHeadline": "Now more than ever, the restaurant industry needs your help.",
+  "announcementBody": "We have never seen anything like this before. The National Restaurant Association estimates that the COVID-19 pandemic will result in $225B in lost revenue and the elimination of 5-7 million jobs in restaurants. Please support the restaurants you love.",
+  "announcementLinks": [
+   {
+    "label": "Gift Cards",
+    "url": "https://www.misinewyork.com/store/gift-cards/",
+    "category": "other"
+   },
+   {
+    "label": "Online Shop",
+    "url": "https://www.misinewyork.com/store/",
+    "category": "other"
+   }
+  ],
+  "collections": [
+   "Resy Staff Picks in New York",
+   "New York’s Critically Acclaimed Restaurants",
+   "The Women of Food: New York",
+   "If You’re Craving Pasta in New York...",
+   "Save Room for Dessert in New York",
+   "Date Night Gems in New York",
+   "Book Tonight",
+   "Climbing",
+   "Global Dining Access"
+  ],
+  "awards": [],
+  "venueGroup": "Grovehouse (Lilia / Misi / Misipasta / MP @ GI)",
+  "venueGroupId": 290,
+  "venueGroupVenueIds": [
+   418,
+   73487
+  ],
+  "socialLinks": [
+   {
+    "name": "instagram",
+    "value": "misinewyork"
+   }
+  ],
+  "isActive": true,
+  "isGlobalDiningAccess": true,
+  "isGlobalDiningAccessOnly": false,
+  "isResySelect": false,
+  "isResyCreditEligible": true,
+  "isTockInventory": false,
+  "inventoryTypeId": 2,
+  "requiresReservationTransfers": false,
+  "allowMultipleReservations": false,
+  "allowBypassPaymentMethod": true,
+  "enableResyPay": false,
+  "hospitalityIncluded": false,
+  "hasExperiences": false,
+  "taxIncluded": false,
+  "transactionProcessor": "stripe",
+  "waitlistAvailable": false,
+  "reopenDate": "2020-09-30",
+  "scrapedAt": "2026-10-31T03:39:25.451Z",
+  "availabilityDate": "2026-11-07",
+  "partySize": 2,
+  "slotCount": 13,
+  "slots": [
+   {
+    "startTime": "2026-11-07 11:30:00",
+    "endTime": "2026-11-07 13:00:00",
+    "type": "Dining Room",
+    "configId": 320007,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241464
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 4,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 11:30:00",
+    "endTime": "2026-11-07 13:00:00",
+    "type": "Kitchen Counter",
+    "configId": 320049,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241506
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 1,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 11:45:00",
+    "endTime": "2026-11-07 13:15:00",
+    "type": "Dining Room",
+    "configId": 320013,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241470
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 1,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 11:45:00",
+    "endTime": "2026-11-07 13:15:00",
+    "type": "Kitchen Counter",
+    "configId": 320048,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241505
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 3,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 12:00:00",
+    "endTime": "2026-11-07 13:30:00",
+    "type": "Bar",
+    "configId": 319996,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241453
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 1,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 12:00:00",
+    "endTime": "2026-11-07 13:30:00",
+    "type": "Dining Room",
+    "configId": 320012,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241469
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 1,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 12:15:00",
+    "endTime": "2026-11-07 13:45:00",
+    "type": "Bar",
+    "configId": 319998,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241455
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 2,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 12:15:00",
+    "endTime": "2026-11-07 13:45:00",
+    "type": "Kitchen Counter",
+    "configId": 320044,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241501
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 2,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 12:45:00",
+    "endTime": "2026-11-07 14:15:00",
+    "type": "Bar",
+    "configId": 319994,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241451
+    ],
+    "minSize": 1,
+    "maxSize": 2,
+    "quantity": 1,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 13:00:00",
+    "endTime": "2026-11-07 14:30:00",
+    "type": "Dining Room",
+    "configId": 320011,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241468
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 2,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 13:45:00",
+    "endTime": "2026-11-07 15:15:00",
+    "type": "Bar",
+    "configId": 319998,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241455
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 2,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 14:15:00",
+    "endTime": "2026-11-07 15:45:00",
+    "type": "Bar",
+    "configId": 320000,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241457
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 2,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   },
+   {
+    "startTime": "2026-11-07 14:30:00",
+    "endTime": "2026-11-07 16:00:00",
+    "type": "Bar",
+    "configId": 320002,
+    "shiftId": 664545,
+    "serviceTypeId": 3,
+    "templateId": 1978452,
+    "floorplanId": null,
+    "tableIds": [
+     241459
+    ],
+    "minSize": 2,
+    "maxSize": 2,
+    "quantity": 1,
+    "turnTimeSeconds": 5400,
+    "isGlobalDiningAccess": false,
+    "isExclusive": false,
+    "isEvent": false,
+    "hasAddOns": false,
+    "addOnRequired": false,
+    "isPaid": false,
+    "depositFee": null,
+    "serviceCharge": null,
+    "cancellationFee": null,
+    "cancelCutOffTime": null,
+    "changeCutOffTime": null,
+    "paymentStructure": null
+   }
+  ],
+  "earliestSlot": "2026-11-07 11:30:00",
+  "latestSlot": "2026-11-07 14:30:00",
+  "slotTypes": [
+   "Dining Room",
+   "Kitchen Counter",
+   "Bar"
+  ],
+  "notifyWindows": [
+   {
+    "serviceTypeId": 2,
+    "from": "2026-11-07 16:30:00",
+    "to": "2026-11-07 22:00:00",
+    "stepMinutes": 30
+   },
+   {
+    "serviceTypeId": 3,
+    "from": "2026-11-07 11:30:00",
+    "to": "2026-11-07 14:30:00",
+    "stepMinutes": 30
+   }
+  ],
+  "notifyAvailable": true
+ }
+]

@@ -1,0 +1,4 @@
+node_modules/
+calendar.csv
+__pycache__/
+.venv/
